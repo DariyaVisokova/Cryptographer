@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptographer", "Cryptographer.csproj", "{27978D46-A9D1-4F2C-B1D1-E2E1252E2116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptographer_Test", "..\Cryptographer_Test\Cryptographer_Test.csproj", "{69C666CA-3834-485C-8376-3A107BFFDAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27978D46-A9D1-4F2C-B1D1-E2E1252E2116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27978D46-A9D1-4F2C-B1D1-E2E1252E2116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27978D46-A9D1-4F2C-B1D1-E2E1252E2116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27978D46-A9D1-4F2C-B1D1-E2E1252E2116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C666CA-3834-485C-8376-3A107BFFDAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C666CA-3834-485C-8376-3A107BFFDAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C666CA-3834-485C-8376-3A107BFFDAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C666CA-3834-485C-8376-3A107BFFDAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5BEE29F-892C-4B2D-ABDF-126B964FA4C5}
+	EndGlobalSection
+EndGlobal
